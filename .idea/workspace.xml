@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39166559-f408-4023-a8a5-d4f6565fa45e" name="Default Changelist" comment="" />
+    <list default="true" id="39166559-f408-4023-a8a5-d4f6565fa45e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardDeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardDeck.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zy4KrOxyVcsUttP0qy4olQeqlV" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -26,6 +33,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -77,22 +86,22 @@
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state x="823" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/49.23.1631.1027@49.23.1631.1027" timestamp="1585807472356" />
-    <state width="677" height="272" key="GridCell.Tab.0.bottom" timestamp="1585812148734">
+    <state width="677" height="272" key="GridCell.Tab.0.bottom" timestamp="1585814696858">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1585812148734" />
-    <state width="677" height="272" key="GridCell.Tab.0.center" timestamp="1585812148734">
+    <state width="677" height="272" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
+    <state width="677" height="272" key="GridCell.Tab.0.center" timestamp="1585814696858">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1585812148734" />
-    <state width="677" height="272" key="GridCell.Tab.0.left" timestamp="1585812148733">
+    <state width="677" height="272" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
+    <state width="677" height="272" key="GridCell.Tab.0.left" timestamp="1585814696857">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1585812148733" />
-    <state width="677" height="272" key="GridCell.Tab.0.right" timestamp="1585812148734">
+    <state width="677" height="272" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696857" />
+    <state width="677" height="272" key="GridCell.Tab.0.right" timestamp="1585814696858">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1585812148734" />
+    <state width="677" height="272" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
     <state x="892" y="245" key="search.everywhere.popup" timestamp="1585798010941">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
