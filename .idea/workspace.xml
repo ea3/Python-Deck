@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39166559-f408-4023-a8a5-d4f6565fa45e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cardDeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardDeck.py" afterDir="false" />
     </list>
@@ -86,22 +85,22 @@
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state x="823" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/49.23.1631.1027@49.23.1631.1027" timestamp="1585807472356" />
-    <state width="677" height="272" key="GridCell.Tab.0.bottom" timestamp="1585814696858">
+    <state width="677" height="272" key="GridCell.Tab.0.bottom" timestamp="1585816461744">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
-    <state width="677" height="272" key="GridCell.Tab.0.center" timestamp="1585814696858">
+    <state width="677" height="272" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1585816461744" />
+    <state width="677" height="272" key="GridCell.Tab.0.center" timestamp="1585816461744">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
-    <state width="677" height="272" key="GridCell.Tab.0.left" timestamp="1585814696857">
+    <state width="677" height="272" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1585816461744" />
+    <state width="677" height="272" key="GridCell.Tab.0.left" timestamp="1585816461743">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696857" />
-    <state width="677" height="272" key="GridCell.Tab.0.right" timestamp="1585814696858">
+    <state width="677" height="272" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1585816461743" />
+    <state width="677" height="272" key="GridCell.Tab.0.right" timestamp="1585816461744">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="677" height="272" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1585814696858" />
+    <state width="677" height="272" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1585816461744" />
     <state x="892" y="245" key="search.everywhere.popup" timestamp="1585798010941">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>

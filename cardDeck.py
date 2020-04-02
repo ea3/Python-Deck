@@ -23,28 +23,33 @@ class FrenchDeck:
 
 deck = FrenchDeck()
 # Picking only the aces by slicing, starting at index 12 and skipping 13 cards.
-print(deck[12::13])
+# print(deck[12::13])
 
 # How many cards? Use len() on the instance.
-print(len(deck))
+# print(len(deck))
 # random card? Use choice on the instance. Remember to import Random.
-print(choice(deck))
+# print(choice(deck))
 # The First three elements.
-print(deck[:3])
+# print(deck[:3])
 # for card in reversed(deck):
 #     print(card)
 # Reversed the cards. Two different methods.
 # for card in deck[::-1]:
 #     print(card)
-print(Card('Q', 'hearts') in deck)
+# print(Card('Q', 'hearts') in deck)
 # Ranking cards: Ace is the highest, Spades, hearts, diamonds, clubs(lowest)
+
 suit_values = dict(spades=3, hearts=2, diamonds=1, clubs=0)
+print(len(suit_values))
 print(type(suit_values))
 print(suit_values)
+
+print(">><<>><<>><<>><<>><<")
 
 
 def spades_high(card):
     rank_value = FrenchDeck.ranks.index(card.rank)
+    print(rank_value)
     return rank_value * len(suit_values) + suit_values[card.suit]
 
 
